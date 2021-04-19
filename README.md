@@ -1,6 +1,6 @@
 # Excalo Quake Live Config
 
-```cfg
+```txt
 echo "                    _             __      "
 echo "                   | |           / _|     "
 echo "  _____  _____ __ _| | ___   ___| |_ __ _ "
